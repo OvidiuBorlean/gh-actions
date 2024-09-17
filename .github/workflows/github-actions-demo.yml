@@ -1,7 +1,7 @@
 #test
 name: github_Action_demo
 
-on: pull_request
+on: push
 
 jobs: 
   echo1:

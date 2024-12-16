@@ -2,6 +2,6 @@ name: ovidiu Test
 on: workflow_dispatch
 jobs:
   first:
-  runs-on: ubuntu-latest
-  steps:
-    run: echo "Test Ovidiu"
+    runs-on: ubuntu-latest
+    steps:
+      run: echo "Test Ovidiu"

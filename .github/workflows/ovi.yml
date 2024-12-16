@@ -4,4 +4,5 @@ jobs:
   first:
     runs-on: ubuntu-latest
     steps:
-      run: echo "Test Ovidiu"
+      - name: my first one
+        run: echo "Test Ovidiu"
